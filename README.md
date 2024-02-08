@@ -2,8 +2,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arafat+!;" />
 </h1>
-<h3 align="center">A passionate Android Application(Flutter) developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<h2 align="center">A passionate Android Application(Flutter) developer from Bangladesh</h2>
+<hr/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-bakar-siddik-arafat&label=Profile%20views&color=0e75b6&style=flat" alt="abu-bakar-siddik-arafat" /> </p>
 
 - 🌱 I’m currently learning **Dart, Flutter, OOP, State Management, Rest API**
